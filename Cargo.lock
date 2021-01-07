@@ -1877,6 +1877,7 @@ version = "0.2.0"
 dependencies = [
  "bimap",
  "indexmap",
+ "num-traits",
  "pipe",
  "pretty_assertions",
  "rspirv",
